@@ -1,0 +1,37 @@
+{
+  "fps": 12,
+  "animations": {
+    "emerge": {
+      "frames": 31,
+      "cols": 6,
+      "rows": 6,
+      "frameWidth": 372,
+      "frameHeight": 400,
+      "loop": false
+    },
+    "hover": {
+      "frames": 30,
+      "cols": 6,
+      "rows": 5,
+      "frameWidth": 609,
+      "frameHeight": 400,
+      "loop": true
+    },
+    "turnback": {
+      "frames": 32,
+      "cols": 6,
+      "rows": 6,
+      "frameWidth": 445,
+      "frameHeight": 400,
+      "loop": false
+    },
+    "bounce": {
+      "frames": 20,
+      "cols": 6,
+      "rows": 4,
+      "frameWidth": 528,
+      "frameHeight": 400,
+      "loop": false
+    }
+  }
+}
